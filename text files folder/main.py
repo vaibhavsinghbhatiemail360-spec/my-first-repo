@@ -1,4 +1,4 @@
 print("hii there")
 print("this is my first git project")
-print("let's learn git")
-print("bye")
+print("teri maa ka saakoi nka")
+print("see you later")
